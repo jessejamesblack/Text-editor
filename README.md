@@ -1,2 +1,2 @@
 # Text Editor
- Text editor with predictive text and spell check
+ Text editor with predictive text, spell check and flesch index.
